@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 Hi!:
 MSc in Embedded Systems and Computers<br>Currently working on my thesis, Multi-Run Software-Based Microarchitectural Side-Channel Attacks Against MCUs
 
 
@@ -18,8 +18,8 @@ MSc in Embedded Systems and Computers<br>Currently working on my thesis, Multi-R
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andre3barbosa&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andre3barbosa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
