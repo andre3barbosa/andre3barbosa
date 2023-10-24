@@ -1,4 +1,4 @@
-# 🚀 Hi!:
+# 🚀 Hi!
 MSc in Embedded Systems and Computers<br>Currently working on my thesis, Multi-Run Software-Based Microarchitectural Side-Channel Attacks Against MCUs
 
 
