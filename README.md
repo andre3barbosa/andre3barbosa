@@ -23,5 +23,3 @@ MSc in Embedded Systems and Computers<br>Currently working on my thesis, Multi-R
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
