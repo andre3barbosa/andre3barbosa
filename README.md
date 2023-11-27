@@ -13,13 +13,5 @@ MSc in Embedded Systems and Computers<br>Currently working on my thesis, Multi-R
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andre3barbosa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andre3barbosa&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andre3barbosa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
