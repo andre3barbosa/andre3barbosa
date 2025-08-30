@@ -1,6 +1,6 @@
 # Hi
 MSc in Embedded Systems and Computers (Thesis - Multi-Run Software-Based Microarchitectural Side-Channel Attacks Against MCUs)
-Currently at Synopsys
+<br>Currently at Synopsys
 
 
 ## 🌐:
